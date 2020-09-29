@@ -1,0 +1,14 @@
+---
+title: "Week6Lab"
+output: ''
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+```{r}
+print("I'm Learning to Use Github...Boom")
+```
+
